@@ -1,2 +1,2 @@
-# OIBSIP_Java-Programming_Task4
-OIBSIP_Java Programming Internship_Task4_Online-Examination
+# OIBSIP_Java-Programming_Internship
+OIBSIP Java Programming Internship Online-Examination
