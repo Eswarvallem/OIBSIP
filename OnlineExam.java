@@ -11,7 +11,7 @@ class OnlineExam {
         String userID = input.nextLine();
         System.out.println("Enter Password: ");
         int password = input.nextInt();
-        d.put("Gauri", 105);
+        d.put("Eswar", 105);
 
         if (d.containsKey(userID) && d.get(userID) == password) {
             System.out.println("Log-In Successful!");
