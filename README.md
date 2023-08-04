@@ -1,2 +1,2 @@
-# OIBSIP_Java-Programming_Internship
-OIBSIP Java Programming Internship Online-Examination
+# OIBSIP-Java-Programming_Task2
+OIBSIP-Java Programming Internship_Task2_Number-Guessing-Game
